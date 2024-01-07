@@ -9,7 +9,7 @@ This is a simple web application that displays current weather information and a
 
 ## Screenshots
 
-![Weather Forecast Screenshot](Screenshot(98).png)
+![Weather Forecast Screenshot](Screenshots(98).png)
 
 ## Technologies Used
 
