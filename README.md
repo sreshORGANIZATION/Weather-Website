@@ -19,7 +19,7 @@ This is a simple web application that displays current weather information and a
 
 ## How to Use
 
-1. Clone the repository: `git clone https://github.com/yourusername/weather-forecast.git`
+1. Clone the repository.
 2. Open the `index.html` file in a web browser.
 
 ## Customization
